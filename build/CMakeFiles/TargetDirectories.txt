@@ -1,0 +1,3 @@
+/home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/build/CMakeFiles/rebuild_cache.dir
+/home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/build/CMakeFiles/traffic_simulation.dir
+/home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/build/CMakeFiles/edit_cache.dir
