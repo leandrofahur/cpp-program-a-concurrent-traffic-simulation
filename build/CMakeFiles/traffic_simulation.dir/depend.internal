@@ -5,6 +5,7 @@ CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Graphics.cpp
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Graphics.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Intersection.h
+ /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficLight.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficObject.h
  /usr/local/include/opencv4/opencv2/calib3d.hpp
  /usr/local/include/opencv4/opencv2/core.hpp
@@ -107,12 +108,14 @@ CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Intersection.cpp
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Intersection.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Street.h
+ /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficLight.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficObject.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/Street.cpp.o
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Intersection.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Street.cpp
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Street.h
+ /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficLight.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficObject.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o
@@ -126,6 +129,7 @@ CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Graphics.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Intersection.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Street.h
+ /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficLight.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficObject.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficSimulator-Final.cpp
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Vehicle.h
@@ -229,6 +233,7 @@ CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o
 CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Intersection.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Street.h
+ /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficLight.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/TrafficObject.h
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Vehicle.cpp
  /home/leandro/Documents/repository/udacity/cpp-program-a-concurrent-traffic-simulation/src/Vehicle.h
